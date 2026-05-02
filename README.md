@@ -120,4 +120,4 @@ Comprehensive JavaScript practice and combined concepts.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/Javascripts-.git
+git clone https://github.com/yash2044jaiswal/Javascripts-.git
