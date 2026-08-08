@@ -3,6 +3,7 @@
 
 Welcome to my JavaScript repository! This repository contains all the concepts, practice programs, and projects I have learned while studying JavaScript. It is specially organized for beginners who want to build a strong foundation in JavaScript.
 
+
 ---
 
 ## 📖 About This Repository
